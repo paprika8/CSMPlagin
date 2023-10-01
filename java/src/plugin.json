@@ -1,0 +1,7 @@
+{
+  "name": "nmpPlugin",
+  "author": "Paprika",
+  "main": "nmp.FindAndNextMap",
+  "description": "A plugin to change map by /nmp. + login",
+  "version": 1.3
+}
