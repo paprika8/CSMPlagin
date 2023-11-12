@@ -1,0 +1,202 @@
+[10-21-2023 17:54:43] [I] Загружено модификаций: 1.
+[10-21-2023 17:54:43] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 17:55:04] [I] Загружено модификаций: 1.
+[10-21-2023 17:55:04] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 17:57:26] [I] Загружено модификаций: 1.
+[10-21-2023 17:57:26] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:00:00] [I] Загружено модификаций: 1.
+[10-21-2023 18:00:01] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:00:04] [I] Загружено модификаций: 1.
+[10-21-2023 18:00:04] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:00:07] [I] Следующая случайная карта: Debris Field.
+[10-21-2023 18:00:07] [I] Loading map...
+[10-21-2023 18:00:08] [I] Map loaded.
+[10-21-2023 18:00:08] [I] Opened a server on port 6567.
+[10-21-2023 18:00:24] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:01:25] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:01:29] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:01:36] [I] <[U]Paprika2: /y>
+[10-21-2023 18:01:41] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:01:44] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:01:58] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:02:12] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:02:13] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:02:14] [I] Kicking connection 192.168.1.79 / AAAAAAAA; Reason: recentKick
+[10-21-2023 18:03:56] [I] Загружено модификаций: 1.
+[10-21-2023 18:03:56] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:04:25] [I] Загружено модификаций: 1.
+[10-21-2023 18:04:25] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:04:32] [I] Загружено модификаций: 1.
+[10-21-2023 18:04:32] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:04:40] [I] Загружено модификаций: 1.
+[10-21-2023 18:04:40] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:04:45] [I] Загружено модификаций: 1.
+[10-21-2023 18:04:45] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:04:50] [I] Следующая случайная карта: Tendrils.
+[10-21-2023 18:04:50] [I] Loading map...
+[10-21-2023 18:04:50] [I] Map loaded.
+[10-21-2023 18:04:50] [I] Opened a server on port 6567.
+[10-21-2023 18:05:41] [I] Загружено модификаций: 1.
+[10-21-2023 18:05:41] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:05:44] [I] Следующая случайная карта: Ancient Caldera.
+[10-21-2023 18:05:44] [I] Loading map...
+[10-21-2023 18:05:44] [I] Map loaded.
+[10-21-2023 18:05:44] [I] Opened a server on port 6567.
+[10-21-2023 18:05:48] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:06:18] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:06:18] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-21-2023 18:06:58] [I] Загружено модификаций: 1.
+[10-21-2023 18:06:58] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:07:03] [I] Следующая случайная карта: Debris Field.
+[10-21-2023 18:07:03] [I] Loading map...
+[10-21-2023 18:07:03] [I] Map loaded.
+[10-21-2023 18:07:03] [I] Opened a server on port 6567.
+[10-21-2023 18:07:07] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:07:31] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:07:37] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:07:37] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:07:42] [I] Kicking connection 192.168.1.79 / AAAAAAAA; Reason: recentKick
+[10-21-2023 18:07:47] [I] Kicking connection 192.168.1.79 / AAAAAAAA; Reason: recentKick
+[10-21-2023 18:07:50] [I] Kicking connection 192.168.1.79 / AAAAAAAA; Reason: recentKick
+[10-21-2023 18:09:50] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:10:01] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:10:10] [I] <[U]Paprika: /y>
+[10-21-2023 18:10:19] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:10:20] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:11:03] [I] Загружено модификаций: 1.
+[10-21-2023 18:11:03] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:11:09] [I] Следующая случайная карта: Mud Flats.
+[10-21-2023 18:11:09] [I] Loading map...
+[10-21-2023 18:11:10] [I] Map loaded.
+[10-21-2023 18:11:10] [I] Opened a server on port 6567.
+[10-21-2023 18:11:14] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:12:30] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:12:34] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:12:36] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:14:51] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:14:51] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:14:51] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[10-21-2023 18:15:14] [I] Загружено модификаций: 1.
+[10-21-2023 18:15:14] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:15:16] [I] Следующая случайная карта: Ancient Caldera.
+[10-21-2023 18:15:16] [I] Loading map...
+[10-21-2023 18:15:17] [I] Map loaded.
+[10-21-2023 18:15:17] [I] Opened a server on port 6567.
+[10-21-2023 18:15:21] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:15:34] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:15:39] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:15:57] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:16:03] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:16:04] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:16:22] [I] Загружено модификаций: 1.
+[10-21-2023 18:16:22] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:16:27] [I] Следующая случайная карта: Islands.
+[10-21-2023 18:16:27] [I] Loading map...
+[10-21-2023 18:16:28] [I] Map loaded.
+[10-21-2023 18:16:28] [I] Opened a server on port 6567.
+[10-21-2023 18:16:32] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:16:54] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:17:17] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:17:17] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[10-21-2023 18:17:21] [I] Загружено модификаций: 1.
+[10-21-2023 18:17:21] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:17:23] [I] Следующая случайная карта: Fortress.
+[10-21-2023 18:17:23] [I] Loading map...
+[10-21-2023 18:17:23] [I] Map loaded.
+[10-21-2023 18:17:23] [I] Opened a server on port 6567.
+[10-21-2023 18:17:25] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:17:41] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:18:19] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:18:19] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:18:19] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[10-21-2023 18:18:54] [I] Загружено модификаций: 1.
+[10-21-2023 18:18:54] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:18:56] [I] Следующая случайная карта: Mud Flats.
+[10-21-2023 18:18:56] [I] Loading map...
+[10-21-2023 18:18:56] [I] Map loaded.
+[10-21-2023 18:18:56] [I] Opened a server on port 6567.
+[10-21-2023 18:19:03] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:19:21] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:19:34] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:20:30] [I] Загружено модификаций: 1.
+[10-21-2023 18:20:30] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:20:31] [E] Command not found. Did you mean "stop"?
+[10-21-2023 18:20:36] [I] Следующая случайная карта: Maze.
+[10-21-2023 18:20:36] [I] Loading map...
+[10-21-2023 18:20:36] [I] Map loaded.
+[10-21-2023 18:20:36] [I] Opened a server on port 6567.
+[10-21-2023 18:20:39] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:20:57] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:22:13] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: AntiGrif
+[10-21-2023 18:22:21] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:22:21] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[10-21-2023 18:22:51] [I] Загружено модификаций: 1.
+[10-21-2023 18:22:51] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:22:54] [I] Следующая случайная карта: Fortress.
+[10-21-2023 18:22:54] [I] Loading map...
+[10-21-2023 18:22:54] [I] Map loaded.
+[10-21-2023 18:22:54] [I] Opened a server on port 6567.
+[10-21-2023 18:22:56] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-21-2023 18:23:05] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:23:25] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:23:31] [I] <[U]Paprika: /y>
+[10-21-2023 18:23:37] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: antygrif
+[10-21-2023 18:23:37] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:23:43] [I] Kicking connection 192.168.1.79 / AAAAAAAA; Reason: recentKick
+[10-21-2023 18:24:16] [I] Загружено модификаций: 1.
+[10-21-2023 18:24:16] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:24:19] [I] Следующая случайная карта: Shattered.
+[10-21-2023 18:24:19] [I] Loading map...
+[10-21-2023 18:24:19] [I] Map loaded.
+[10-21-2023 18:24:19] [I] Opened a server on port 6567.
+[10-21-2023 18:24:28] [I] Kicking connection 192.168.1.79 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: antygrif
+[10-21-2023 18:24:28] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:24:53] [I] Загружено модификаций: 1.
+[10-21-2023 18:24:53] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:24:54] [I] Следующая случайная карта: Mud Flats.
+[10-21-2023 18:24:54] [I] Loading map...
+[10-21-2023 18:24:55] [I] Map loaded.
+[10-21-2023 18:24:55] [I] Opened a server on port 6567.
+[10-21-2023 18:24:57] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:25:08] [I] <[U]Paprika2: /lin tayunoske h17u>
+[10-21-2023 18:25:16] [I] <[Т/А]Paprika2: /nmp Vall>
+[10-21-2023 18:25:51] [I] <[Т/А]Paprika2: /nmp Tendrils>
+[10-21-2023 18:25:51] [I] Игра окончена! Достигнута волна 1 с 1 игроками онлайн на карте Mud Flats.
+[10-21-2023 18:25:51] [I] Выбранная карта: Tendrils.
+[10-21-2023 18:26:46] [I] <[Т/А]Paprika2: /nmp Debris Field>
+[10-21-2023 18:27:04] [I] <[Т/А]Paprika2: /nmp Debris>
+[10-21-2023 18:35:45] [I] Загружено модификаций: 1.
+[10-21-2023 18:35:45] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:35:49] [I] Следующая случайная карта: Labyrinth.
+[10-21-2023 18:35:49] [I] Loading map...
+[10-21-2023 18:35:49] [I] Map loaded.
+[10-21-2023 18:35:49] [I] Opened a server on port 6567.
+[10-21-2023 18:35:53] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:36:01] [I] <[Т/А]Paprika2: /nmp Vall>
+[10-21-2023 18:36:19] [I] <[Т/А]Paprika2: /nmp Debris_Field>
+[10-21-2023 18:36:19] [I] Игра окончена! Достигнута волна 1 с 1 игроками онлайн на карте Labyrinth.
+[10-21-2023 18:36:19] [I] Выбранная карта: Debris Field.
+[10-21-2023 18:40:01] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:40:19] [I] Загружено модификаций: 1.
+[10-21-2023 18:40:19] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:40:31] [I] Загружено модификаций: 1.
+[10-21-2023 18:40:31] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:40:34] [I] Следующая случайная карта: Mud Flats.
+[10-21-2023 18:40:34] [I] Loading map...
+[10-21-2023 18:40:34] [I] Map loaded.
+[10-21-2023 18:40:34] [I] Opened a server on port 6567.
+[10-21-2023 18:40:37] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:40:43] [I] <[Т/А]Paprika2: /nmp Vall>
+[10-21-2023 18:40:55] [I] <[Т/А]Paprika2: /nmp Debris_Field>
+[10-21-2023 18:40:55] [I] Игра окончена! Достигнута волна 1 с 1 игроками онлайн на карте Mud Flats.
+[10-21-2023 18:40:55] [I] Выбранная карта: Debris Field.
+[10-21-2023 18:45:54] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-21-2023 18:50:41] [I] Загружено модификаций: 1.
+[10-21-2023 18:50:41] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-21-2023 18:50:43] [I] Следующая случайная карта: Fork.
+[10-21-2023 18:50:43] [I] Loading map...
+[10-21-2023 18:50:43] [I] Map loaded.
+[10-21-2023 18:50:43] [I] Opened a server on port 6567.
+[10-21-2023 18:50:50] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-21-2023 18:51:10] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-21-2023 18:51:13] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]

@@ -1,0 +1,92 @@
+[11-11-2023 13:14:09] [I] Загружено модификаций: 1.
+[11-11-2023 13:14:09] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 13:14:27] [I] Следующая случайная карта: Ancient Caldera.
+[11-11-2023 13:14:27] [I] Loading map...
+[11-11-2023 13:14:28] [I] Map loaded.
+[11-11-2023 13:14:28] [I] Opened a server on port 6567.
+[11-11-2023 13:14:33] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-11-2023 13:14:53] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-11-2023 13:15:02] [I] [Т/А]Paprika2 [Hf3RlF7gkSwAAAAAomORWQ==] has requested trace info of [U]Paprika [76dBeDx+7s4AAAAA6MtEFQ==].
+[11-11-2023 13:15:17] [I] Kicking connection 192.168.1.75 / 76dBeDx+7s4AAAAA6MtEFQ==; Reason: kick
+[11-11-2023 13:15:17] [I] [Т/А]Paprika2 [Hf3RlF7gkSwAAAAAomORWQ==] has kicked [U]Paprika [76dBeDx+7s4AAAAA6MtEFQ==].
+[11-11-2023 13:15:17] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[11-11-2023 13:15:24] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-11-2023 13:16:02] [I] Загружено модификаций: 1.
+[11-11-2023 13:16:02] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 13:16:04] [I] Следующая случайная карта: Tendrils.
+[11-11-2023 13:16:04] [I] Loading map...
+[11-11-2023 13:16:04] [I] Map loaded.
+[11-11-2023 13:16:05] [I] Opened a server on port 6567.
+[11-11-2023 13:16:17] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-11-2023 13:16:47] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-11-2023 13:16:52] [I] Kicking connection 192.168.1.75 / 76dBeDx+7s4AAAAA6MtEFQ==; Reason: kick
+[11-11-2023 13:16:52] [I] [Т/А]Paprika2 [Hf3RlF7gkSwAAAAAomORWQ==] has kicked [U]Paprika [76dBeDx+7s4AAAAA6MtEFQ==].
+[11-11-2023 13:16:52] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[11-11-2023 13:16:55] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-11-2023 21:19:43] [I] Загружено модификаций: 1.
+[11-11-2023 21:19:43] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 21:19:48] [I] Следующая случайная карта: Archipelago.
+[11-11-2023 21:19:48] [I] Loading map...
+[11-11-2023 21:19:48] [I] Map loaded.
+[11-11-2023 21:19:48] [I] Opened a server on port 6567.
+[11-11-2023 21:20:11] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-11-2023 21:20:40] [I] <[Т/А]Paprika2: /regp 55 55 [Ют]>
+[11-11-2023 21:20:58] [I] <[Т/А]Paprika2: /lin tayunoske h17u>
+[11-11-2023 21:21:10] [I] <[Т/А]Paprika2: /regp 55 55 [Ют]>
+[11-11-2023 21:21:21] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-11-2023 21:26:00] [I] Загружено модификаций: 1.
+[11-11-2023 21:26:00] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 21:26:05] [I] Следующая случайная карта: Debris Field.
+[11-11-2023 21:26:05] [I] Loading map...
+[11-11-2023 21:26:06] [I] Map loaded.
+[11-11-2023 21:26:06] [I] Opened a server on port 6567.
+[11-11-2023 21:26:19] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-11-2023 21:26:38] [I] <[Т/А]Paprika2: /lin youTube h17>
+[11-11-2023 21:26:43] [I] <[Т/А]Paprika2: /lin youTube h18>
+[11-11-2023 21:26:45] [I] <[Т/А]Paprika2: /lin youTube h13>
+[11-11-2023 21:26:47] [I] <[Т/А]Paprika2: /lin youTube h14>
+[11-11-2023 21:26:50] [I] <[Т/А]Paprika2: /lin youTube h15>
+[11-11-2023 21:26:52] [I] <[Т/А]Paprika2: /lin youTube h16>
+[11-11-2023 21:26:55] [I] <[Т/А]Paprika2: /lin youTube h17>
+[11-11-2023 21:26:57] [I] <[Т/А]Paprika2: /lin youTube h19>
+[11-11-2023 21:27:01] [I] <[Т/А]Paprika2: /lin youTube h10>
+[11-11-2023 21:27:04] [I] <[Т/А]Paprika2: /lin youTube h11>
+[11-11-2023 21:27:06] [I] <[Т/А]Paprika2: /lin youTube h12>
+[11-11-2023 21:27:08] [I] <[Т/А]Paprika2: /lin youTube h13>
+[11-11-2023 21:27:10] [I] <[Т/А]Paprika2: /lin youTube h14>
+[11-11-2023 21:27:12] [I] <[Т/А]Paprika2: /lin youTube h15>
+[11-11-2023 21:27:14] [I] <[Т/А]Paprika2: /lin youTube h16>
+[11-11-2023 21:27:16] [I] <[Т/А]Paprika2: /lin youTube h17>
+[11-11-2023 21:30:08] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-11-2023 21:31:02] [I] Загружено модификаций: 1.
+[11-11-2023 21:31:02] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 21:31:05] [I] Следующая случайная карта: Fortress.
+[11-11-2023 21:31:05] [I] Loading map...
+[11-11-2023 21:31:06] [I] Map loaded.
+[11-11-2023 21:31:06] [I] Opened a server on port 6567.
+[11-11-2023 21:31:10] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-11-2023 21:31:34] [I] <[Т/А]Paprika2: /lin youTube h65>
+[11-11-2023 21:31:41] [I] [Ютубер]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-11-2023 21:53:08] [I] Загружено модификаций: 1.
+[11-11-2023 21:53:08] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 22:32:43] [I] Загружено модификаций: 1.
+[11-11-2023 22:32:48] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 22:33:01] [I] Следующая случайная карта: Fortress.
+[11-11-2023 22:33:02] [I] Loading map...
+[11-11-2023 22:33:03] [I] Map loaded.
+[11-11-2023 22:33:03] [I] Opened a server on port 6567.
+[11-11-2023 22:33:07] [I] [Т/А] Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-11-2023 22:33:17] [I] [Т/А] Paprika2: sfd
+[11-11-2023 22:34:17] [I] [Т/А] Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[11-11-2023 22:34:28] [I] Загружено модификаций: 1.
+[11-11-2023 22:34:28] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-11-2023 22:34:32] [I] Следующая случайная карта: Fork.
+[11-11-2023 22:34:32] [I] Loading map...
+[11-11-2023 22:34:33] [I] Map loaded.
+[11-11-2023 22:34:33] [I] Opened a server on port 6567.
+[11-11-2023 22:34:38] [I] [Т/А] Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-11-2023 22:34:55] [I] [U] Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-11-2023 22:35:01] [I] Kicking connection 192.168.1.75 / 76dBeDx+7s4AAAAA6MtEFQ==; Reason: kick
+[11-11-2023 22:35:01] [I] [Т/А] Paprika2 [Hf3RlF7gkSwAAAAAomORWQ==] has kicked [U] Paprika [76dBeDx+7s4AAAAA6MtEFQ==].
+[11-11-2023 22:35:01] [I] [U] Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[11-11-2023 22:35:06] [I] [Т/А] Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)

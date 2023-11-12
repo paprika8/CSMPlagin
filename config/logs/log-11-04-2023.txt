@@ -1,0 +1,24 @@
+[11-04-2023 15:48:19] [I] Загружено модификаций: 1.
+[11-04-2023 15:48:19] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-04-2023 15:48:26] [I] Следующая случайная карта: Shattered.
+[11-04-2023 15:48:26] [I] Loading map...
+[11-04-2023 15:48:27] [I] Map loaded.
+[11-04-2023 15:48:27] [I] Opened a server on port 6567.
+[11-04-2023 15:48:34] [I] Kicking connection 26.4.228.106 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: antygrif
+[11-04-2023 15:48:34] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-04-2023 15:48:48] [I] Загружено модификаций: 1.
+[11-04-2023 15:48:48] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-04-2023 15:49:01] [I] Следующая случайная карта: Domain.
+[11-04-2023 15:49:01] [I] Loading map...
+[11-04-2023 15:49:02] [I] Map loaded.
+[11-04-2023 15:49:02] [I] Opened a server on port 6567.
+[11-04-2023 15:49:06] [W] AntiGrif ist kaputt
+[11-04-2023 15:49:07] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-04-2023 15:49:17] [I] Загружено модификаций: 1.
+[11-04-2023 15:49:17] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-04-2023 15:49:19] [I] Следующая случайная карта: Molten Lake.
+[11-04-2023 15:49:19] [I] Loading map...
+[11-04-2023 15:49:19] [I] Map loaded.
+[11-04-2023 15:49:19] [I] Opened a server on port 6567.
+[11-04-2023 15:49:23] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-04-2023 15:49:36] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)

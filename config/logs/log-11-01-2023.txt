@@ -1,0 +1,90 @@
+[11-01-2023 18:22:10] [I] Загружено модификаций: 1.
+[11-01-2023 18:22:10] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:22:19] [I] Следующая случайная карта: Fork.
+[11-01-2023 18:22:19] [I] Loading map...
+[11-01-2023 18:22:19] [I] Map loaded.
+[11-01-2023 18:22:19] [I] Opened a server on port 6567.
+[11-01-2023 18:22:23] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:22:51] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:22:56] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:23:11] [I] Загружено модификаций: 1.
+[11-01-2023 18:23:11] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:23:30] [I] Следующая случайная карта: Shattered.
+[11-01-2023 18:23:30] [I] Loading map...
+[11-01-2023 18:23:31] [I] Map loaded.
+[11-01-2023 18:23:31] [I] Opened a server on port 6567.
+[11-01-2023 18:23:34] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:23:48] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:24:01] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:24:29] [I] Загружено модификаций: 1.
+[11-01-2023 18:24:29] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:24:31] [I] Следующая случайная карта: Fortress.
+[11-01-2023 18:24:31] [I] Loading map...
+[11-01-2023 18:24:32] [I] Map loaded.
+[11-01-2023 18:24:32] [I] Opened a server on port 6567.
+[11-01-2023 18:24:34] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:24:37] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:24:51] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:25:07] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:25:15] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:25:42] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:26:11] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[11-01-2023 18:26:11] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[11-01-2023 18:26:24] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:26:28] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:27:28] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[11-01-2023 18:27:28] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[11-01-2023 18:27:33] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:27:38] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:28:48] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[11-01-2023 18:28:48] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[11-01-2023 18:29:09] [I] Загружено модификаций: 1.
+[11-01-2023 18:29:09] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:29:12] [I] Следующая случайная карта: Domain.
+[11-01-2023 18:29:12] [I] Loading map...
+[11-01-2023 18:29:12] [I] Map loaded.
+[11-01-2023 18:29:12] [I] Opened a server on port 6567.
+[11-01-2023 18:29:16] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:29:24] [I] Загружено модификаций: 1.
+[11-01-2023 18:29:24] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:29:29] [I] Следующая случайная карта: Triad.
+[11-01-2023 18:29:29] [I] Loading map...
+[11-01-2023 18:29:29] [I] Map loaded.
+[11-01-2023 18:29:29] [I] Opened a server on port 6567.
+[11-01-2023 18:29:32] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:29:39] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:30:04] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:30:09] [I] <[U]Paprika: /n>
+[11-01-2023 18:30:19] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:30:23] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:30:38] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:30:54] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:30:55] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (disappeared)
+[11-01-2023 18:31:00] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:31:13] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:33:40] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:33:44] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:35:11] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:35:29] [I] Загружено модификаций: 1.
+[11-01-2023 18:35:29] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:36:51] [I] Загружено модификаций: 1.
+[11-01-2023 18:36:51] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:37:07] [I] Следующая случайная карта: Molten Lake.
+[11-01-2023 18:37:07] [I] Loading map...
+[11-01-2023 18:37:07] [I] Map loaded.
+[11-01-2023 18:37:07] [I] Opened a server on port 6567.
+[11-01-2023 18:37:11] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:37:13] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:37:38] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:38:26] [I] Загружено модификаций: 1.
+[11-01-2023 18:38:26] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-01-2023 18:38:30] [I] Следующая случайная карта: Shattered.
+[11-01-2023 18:38:30] [I] Loading map...
+[11-01-2023 18:38:30] [I] Map loaded.
+[11-01-2023 18:38:31] [I] Opened a server on port 6567.
+[11-01-2023 18:38:33] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[11-01-2023 18:38:38] [I] [Т/А]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-01-2023 18:38:48] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[11-01-2023 18:38:54] [I] <[U]Paprika: /y>
+[11-01-2023 18:38:59] [I] Kicking connection 26.4.228.106 / Hf3RlF7gkSwAAAAAomORWQ==; Reason: antygrif
+[11-01-2023 18:38:59] [I] [Т/А]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)

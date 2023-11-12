@@ -1,0 +1,105 @@
+[10-08-2023 19:23:54] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:24:02] [I] Следующая случайная карта: Labyrinth.
+[10-08-2023 19:24:02] [I] Loading map...
+[10-08-2023 19:24:02] [I] Map loaded.
+[10-08-2023 19:24:02] [I] Opened a server on port 6567.
+[10-08-2023 19:24:23] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-08-2023 19:24:52] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:24:54] [I] Следующая случайная карта: Islands.
+[10-08-2023 19:24:54] [I] Loading map...
+[10-08-2023 19:24:54] [I] Map loaded.
+[10-08-2023 19:24:54] [I] Opened a server on port 6567.
+[10-08-2023 19:25:07] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-08-2023 19:25:16] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (closed)
+[10-08-2023 19:25:20] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-08-2023 19:25:44] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (closed)
+[10-08-2023 19:26:48] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:26:51] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:26:54] [I] Следующая случайная карта: Debris Field.
+[10-08-2023 19:26:54] [I] Loading map...
+[10-08-2023 19:26:55] [I] Map loaded.
+[10-08-2023 19:26:55] [I] Opened a server on port 6567.
+[10-08-2023 19:26:58] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-08-2023 19:27:05] [I] <[U]Paprika: /test>
+[10-08-2023 19:27:26] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:27:29] [I] Следующая случайная карта: Archipelago.
+[10-08-2023 19:27:29] [I] Loading map...
+[10-08-2023 19:27:29] [I] Map loaded.
+[10-08-2023 19:27:29] [I] Opened a server on port 6567.
+[10-08-2023 19:27:40] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-08-2023 19:27:45] [I] <[U]Paprika: /test>
+[10-08-2023 19:28:01] [I] <[U]Paprika: /lin tayunoske h17u>
+[10-08-2023 19:30:38] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:32:27] [I] Загружено модификаций: 1.
+[10-08-2023 19:32:27] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:33:26] [I] Следующая случайная карта: Tendrils.
+[10-08-2023 19:33:26] [I] Loading map...
+[10-08-2023 19:33:27] [I] Map loaded.
+[10-08-2023 19:33:27] [I] Opened a server on port 6567.
+[10-08-2023 19:33:39] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-08-2023 19:33:47] [I] <[U]Paprika: /test>
+[10-08-2023 19:33:47] [E] java.lang.NullPointerException: Cannot invoke "arc.scene.Scene.getStyle(java.lang.Class)" because "arc.Core.scene" is null
+	at mindustry.ui.dialogs.BaseDialog.<init>(BaseDialog.java:41)
+	at nmp.FindAndNextMap.lambda$registerClientCommands$9(FindAndNextMap.java:305)
+	at arc.util.CommandHandler.handleMessage(CommandHandler.java:86)
+	at mindustry.core.NetClient.sendChatMessage(NetClient.java:253)
+	at mindustry.gen.SendChatMessageCallPacket.handleServer(SendChatMessageCallPacket.java:37)
+	at mindustry.net.Net.handleServerReceived(Net.java:312)
+	at mindustry.net.ArcNetProvider$2.lambda$received$2(ArcNetProvider.java:150)
+	at arc.util.TaskQueue.run(TaskQueue.java:17)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:81)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+
+[10-08-2023 19:33:57] [I] <[U]Paprika: /test>
+[10-08-2023 19:34:06] [E] java.lang.NullPointerException: Cannot invoke "arc.scene.Scene.getStyle(java.lang.Class)" because "arc.Core.scene" is null
+	at mindustry.ui.dialogs.BaseDialog.<init>(BaseDialog.java:41)
+	at nmp.FindAndNextMap.lambda$registerClientCommands$9(FindAndNextMap.java:305)
+	at arc.util.CommandHandler.handleMessage(CommandHandler.java:86)
+	at mindustry.core.NetClient.sendChatMessage(NetClient.java:253)
+	at mindustry.gen.SendChatMessageCallPacket.handleServer(SendChatMessageCallPacket.java:37)
+	at mindustry.net.Net.handleServerReceived(Net.java:312)
+	at mindustry.net.ArcNetProvider$2.lambda$received$2(ArcNetProvider.java:150)
+	at arc.util.TaskQueue.run(TaskQueue.java:17)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:81)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+
+[10-08-2023 19:40:34] [I] Загружено модификаций: 1.
+[10-08-2023 19:40:34] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:40:39] [I] Следующая случайная карта: Mud Flats.
+[10-08-2023 19:40:39] [I] Loading map...
+[10-08-2023 19:40:39] [I] Map loaded.
+[10-08-2023 19:40:39] [I] Opened a server on port 6567.
+[10-08-2023 19:40:42] [I] [U]Paprika has connected. [76dBeDx+7s4AAAAA6MtEFQ==]
+[10-08-2023 19:40:47] [I] <[U]Paprika: /test>
+[10-08-2023 19:41:30] [I] [U]Paprika has disconnected. [76dBeDx+7s4AAAAA6MtEFQ==] (closed)
+[10-08-2023 19:42:25] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:42:28] [I] Следующая случайная карта: Maze.
+[10-08-2023 19:42:28] [I] Loading map...
+[10-08-2023 19:42:29] [I] Map loaded.
+[10-08-2023 19:42:29] [I] Opened a server on port 6567.
+[10-08-2023 19:42:32] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-08-2023 19:42:36] [I] <[U]Paprika2: /test>
+[10-08-2023 19:42:53] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:42:57] [I] Следующая случайная карта: Ancient Caldera.
+[10-08-2023 19:42:57] [I] Loading map...
+[10-08-2023 19:42:58] [I] Map loaded.
+[10-08-2023 19:42:58] [I] Opened a server on port 6567.
+[10-08-2023 19:43:40] [I] Загружено модификаций: 1.
+[10-08-2023 19:43:40] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:43:47] [I] Следующая случайная карта: Tendrils.
+[10-08-2023 19:43:47] [I] Loading map...
+[10-08-2023 19:43:47] [I] Map loaded.
+[10-08-2023 19:43:47] [I] Opened a server on port 6567.
+[10-08-2023 19:43:54] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-08-2023 19:43:58] [I] <[U]Paprika2: /test>
+[10-08-2023 19:46:47] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-08-2023 19:49:19] [I] Игра окончена! Достигнута волна 2 с 0 игроками онлайн на карте Tendrils.
+[10-08-2023 19:49:19] [I] Выбранная карта: Islands.
+[10-08-2023 19:52:55] [I] Загружено модификаций: 1.
+[10-08-2023 19:52:55] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-08-2023 19:52:58] [I] Следующая случайная карта: Labyrinth.
+[10-08-2023 19:52:58] [I] Loading map...
+[10-08-2023 19:52:58] [I] Map loaded.
+[10-08-2023 19:52:58] [I] Opened a server on port 6567.
+[10-08-2023 19:53:02] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-08-2023 19:53:05] [I] <[U]Paprika2: /test>

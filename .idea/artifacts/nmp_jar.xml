@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nmp:jar">
+    <output-path>$PROJECT_DIR$/config/mods</output-path>
+    <root id="archive" name="nnp.jar">
+      <element id="module-output" name="nnp" />
+    </root>
+  </artifact>
+</component>

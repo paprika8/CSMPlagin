@@ -1,0 +1,396 @@
+[10-17-2023 19:50:37] [I] Загружено модификаций: 1.
+[10-17-2023 19:50:37] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 19:50:44] [I] Загружено модификаций: 1.
+[10-17-2023 19:50:44] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 19:50:52] [I] Следующая случайная карта: Triad.
+[10-17-2023 19:50:52] [I] Loading map...
+[10-17-2023 19:50:52] [I] Map loaded.
+[10-17-2023 19:50:52] [I] Opened a server on port 6567.
+[10-17-2023 19:51:06] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 19:52:02] [I] Загружено модификаций: 1.
+[10-17-2023 19:52:02] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 19:52:10] [I] Следующая случайная карта: Ancient Caldera.
+[10-17-2023 19:52:10] [I] Loading map...
+[10-17-2023 19:52:10] [I] Map loaded.
+[10-17-2023 19:52:10] [I] Opened a server on port 6567.
+[10-17-2023 19:52:14] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 19:52:31] [I] Shutting down server.
+[10-17-2023 19:52:31] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-17-2023 19:52:40] [I] Загружено модификаций: 1.
+[10-17-2023 19:52:41] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 19:53:12] [I] Следующая случайная карта: Mud Flats.
+[10-17-2023 19:53:12] [I] Loading map...
+[10-17-2023 19:53:13] [I] Map loaded.
+[10-17-2023 19:53:13] [I] Opened a server on port 6567.
+[10-17-2023 19:54:07] [I] Загружено модификаций: 1.
+[10-17-2023 19:54:07] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 19:54:40] [I] Загружено модификаций: 1.
+[10-17-2023 19:54:40] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 19:56:26] [I] Загружено модификаций: 1.
+[10-17-2023 19:56:26] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 19:56:30] [I] Следующая случайная карта: Shattered.
+[10-17-2023 19:56:30] [I] Loading map...
+[10-17-2023 19:56:31] [I] Map loaded.
+[10-17-2023 19:56:31] [I] Opened a server on port 6567.
+[10-17-2023 19:56:34] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:24:19] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:24:25] [I] Следующая случайная карта: Mud Flats.
+[10-17-2023 22:24:25] [I] Loading map...
+[10-17-2023 22:24:25] [I] Map loaded.
+[10-17-2023 22:24:25] [I] Opened a server on port 6567.
+[10-17-2023 22:24:30] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:27:15] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:27:18] [I] Следующая случайная карта: Ancient Caldera.
+[10-17-2023 22:27:18] [I] Loading map...
+[10-17-2023 22:27:19] [I] Map loaded.
+[10-17-2023 22:27:19] [I] Opened a server on port 6567.
+[10-17-2023 22:27:24] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:27:59] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-17-2023 22:32:17] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:32:21] [I] Следующая случайная карта: Domain.
+[10-17-2023 22:32:21] [I] Loading map...
+[10-17-2023 22:32:21] [I] Map loaded.
+[10-17-2023 22:32:21] [I] Opened a server on port 6567.
+[10-17-2023 22:32:26] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:32:48] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:32:50] [I] Следующая случайная карта: Domain.
+[10-17-2023 22:32:50] [I] Loading map...
+[10-17-2023 22:32:50] [I] Map loaded.
+[10-17-2023 22:32:50] [I] Opened a server on port 6567.
+[10-17-2023 22:34:13] [I] Загружено модификаций: 1.
+[10-17-2023 22:34:13] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:34:17] [I] Следующая случайная карта: Fortress.
+[10-17-2023 22:34:17] [I] Loading map...
+[10-17-2023 22:34:17] [I] Map loaded.
+[10-17-2023 22:34:17] [I] Opened a server on port 6567.
+[10-17-2023 22:34:21] [E] java.lang.NullPointerException: Cannot invoke "mindustry.gen.Player.sendMessage(String)" because "mindustry.Vars.player" is null
+	at nmp.AntyGrif.lambda$new$0(AntyGrif.java:15)
+	at arc.Events.fire(Events.java:53)
+	at arc.Events.fire(Events.java:43)
+	at mindustry.core.NetServer.lambda$new$8(NetServer.java:296)
+	at mindustry.net.Net.handleServerReceived(Net.java:310)
+	at mindustry.net.ArcNetProvider$2.lambda$received$2(ArcNetProvider.java:150)
+	at arc.util.TaskQueue.run(TaskQueue.java:17)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:81)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+
+[10-17-2023 22:34:22] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:34:23] [E] java.lang.NullPointerException: Cannot invoke "mindustry.gen.Player.sendMessage(String)" because "mindustry.Vars.player" is null
+	at nmp.AntyGrif.lambda$new$3(AntyGrif.java:25)
+	at arc.Events.fire(Events.java:53)
+	at arc.Events.fire(Events.java:43)
+	at mindustry.gen.Player.unit(Player.java:889)
+	at mindustry.gen.UnitEntity.controller(UnitEntity.java:1076)
+	at mindustry.world.blocks.storage.CoreBlock.playerSpawn(CoreBlock.java:84)
+	at mindustry.gen.Call.playerSpawn(Call.java:948)
+	at mindustry.world.blocks.storage.CoreBlock$CoreBuild.requestSpawn(CoreBlock.java:403)
+	at mindustry.gen.Player.update(Player.java:912)
+	at mindustry.entities.EntityGroup.update(EntityGroup.java:83)
+	at mindustry.gen.Groups.update(Groups.java:83)
+	at mindustry.core.Logic.update(Logic.java:483)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:87)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+
+[10-17-2023 22:36:21] [I] Загружено модификаций: 1.
+[10-17-2023 22:36:21] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:36:24] [I] Следующая случайная карта: Debris Field.
+[10-17-2023 22:36:24] [I] Loading map...
+[10-17-2023 22:36:24] [I] Map loaded.
+[10-17-2023 22:36:24] [I] Opened a server on port 6567.
+[10-17-2023 22:36:29] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:36:34] [E] java.lang.NullPointerException: Cannot invoke "mindustry.gen.Player.sendMessage(String)" because "mindustry.Vars.player" is null
+	at nmp.AntyGrif.lambda$new$1(AntyGrif.java:19)
+	at arc.Events.fire(Events.java:53)
+	at arc.Events.fire(Events.java:43)
+	at mindustry.world.Build.beginBreak(Build.java:62)
+	at mindustry.gen.Call.beginBreak(Call.java:94)
+	at mindustry.gen.UnitEntity.updateBuildLogic(UnitEntity.java:2022)
+	at mindustry.gen.UnitEntity.update(UnitEntity.java:1765)
+	at mindustry.entities.EntityGroup.update(EntityGroup.java:83)
+	at mindustry.gen.Groups.update(Groups.java:83)
+	at mindustry.core.Logic.update(Logic.java:483)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:87)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+
+[10-17-2023 22:37:25] [I] Загружено модификаций: 1.
+[10-17-2023 22:37:25] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:37:28] [I] Следующая случайная карта: Molten Lake.
+[10-17-2023 22:37:28] [I] Loading map...
+[10-17-2023 22:37:29] [I] Map loaded.
+[10-17-2023 22:37:29] [I] Opened a server on port 6567.
+[10-17-2023 22:37:32] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:35] [I] g
+[10-17-2023 22:37:36] [I] g
+[10-17-2023 22:37:36] [I] g
+[10-17-2023 22:37:36] [I] g
+[10-17-2023 22:37:36] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:42] [I] g
+[10-17-2023 22:37:54] [I] g
+[10-17-2023 22:37:54] [I] g
+[10-17-2023 22:37:54] [I] g
+[10-17-2023 22:37:54] [I] g
+[10-17-2023 22:37:57] [I] g
+[10-17-2023 22:37:57] [I] g
+[10-17-2023 22:37:57] [I] g
+[10-17-2023 22:37:57] [I] g
+[10-17-2023 22:42:38] [I] Загружено модификаций: 1.
+[10-17-2023 22:42:38] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:42:41] [I] Следующая случайная карта: Mud Flats.
+[10-17-2023 22:42:41] [I] Loading map...
+[10-17-2023 22:42:42] [I] Map loaded.
+[10-17-2023 22:42:42] [I] Opened a server on port 6567.
+[10-17-2023 22:42:49] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:42:52] [I] g
+[10-17-2023 22:42:52] [I] g
+[10-17-2023 22:42:52] [I] g
+[10-17-2023 22:42:52] [I] g
+[10-17-2023 22:42:52] [I] g
+[10-17-2023 22:42:52] [I] g
+[10-17-2023 22:42:52] [I] g
+[10-17-2023 22:42:56] [I] g
+[10-17-2023 22:42:57] [I] g
+[10-17-2023 22:42:57] [I] g
+[10-17-2023 22:42:57] [I] g
+[10-17-2023 22:42:57] [I] g
+[10-17-2023 22:42:57] [I] g
+[10-17-2023 22:42:57] [I] g
+[10-17-2023 22:43:14] [I] g
+[10-17-2023 22:43:14] [I] g
+[10-17-2023 22:43:14] [I] g
+[10-17-2023 22:43:15] [I] g
+[10-17-2023 22:43:16] [I] g
+[10-17-2023 22:43:16] [I] g
+[10-17-2023 22:43:16] [I] g
+[10-17-2023 22:43:17] [I] g
+[10-17-2023 22:43:17] [I] g
+[10-17-2023 22:43:17] [I] g
+[10-17-2023 22:43:17] [I] g
+[10-17-2023 22:43:17] [I] g
+[10-17-2023 22:43:17] [I] g
+[10-17-2023 22:43:17] [I] g
+[10-17-2023 22:43:19] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-17-2023 22:47:33] [I] Загружено модификаций: 1.
+[10-17-2023 22:47:33] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:47:35] [I] Следующая случайная карта: Molten Lake.
+[10-17-2023 22:47:35] [I] Loading map...
+[10-17-2023 22:47:36] [I] Map loaded.
+[10-17-2023 22:47:36] [I] Opened a server on port 6567.
+[10-17-2023 22:47:39] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:47:42] [I] g
+[10-17-2023 22:47:42] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:46] [I] g
+[10-17-2023 22:47:48] [I] g
+[10-17-2023 22:47:48] [I] g
+[10-17-2023 22:47:49] [I] g
+[10-17-2023 22:47:49] [I] g
+[10-17-2023 22:47:51] [I] g
+[10-17-2023 22:47:51] [I] g
+[10-17-2023 22:47:53] [I] g
+[10-17-2023 22:47:53] [I] g
+[10-17-2023 22:47:53] [I] g
+[10-17-2023 22:47:53] [I] g
+[10-17-2023 22:47:54] [I] g
+[10-17-2023 22:47:54] [I] g
+[10-17-2023 22:47:58] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[10-17-2023 22:48:59] [I] Загружено модификаций: 1.
+[10-17-2023 22:48:59] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:49:02] [I] Следующая случайная карта: Fork.
+[10-17-2023 22:49:02] [I] Loading map...
+[10-17-2023 22:49:02] [I] Map loaded.
+[10-17-2023 22:49:02] [I] Opened a server on port 6567.
+[10-17-2023 22:49:05] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:49:08] [E] java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "blockBuildEndEvent.config" is null
+	at nmp.AntyGrif.lambda$new$1(AntyGrif.java:26)
+	at arc.Events.fire(Events.java:53)
+	at arc.Events.fire(Events.java:43)
+	at mindustry.world.blocks.ConstructBlock.constructFinish(ConstructBlock.java:115)
+	at mindustry.gen.Call.constructFinish(Call.java:349)
+	at mindustry.world.blocks.ConstructBlock.constructed(ConstructBlock.java:143)
+	at mindustry.world.blocks.ConstructBlock$ConstructBuild.construct(ConstructBlock.java:286)
+	at mindustry.gen.UnitEntity.updateBuildLogic(UnitEntity.java:2042)
+	at mindustry.gen.UnitEntity.update(UnitEntity.java:1765)
+	at mindustry.entities.EntityGroup.update(EntityGroup.java:83)
+	at mindustry.gen.Groups.update(Groups.java:83)
+	at mindustry.core.Logic.update(Logic.java:483)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:87)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+
+[10-17-2023 22:51:57] [I] Загружено модификаций: 1.
+[10-17-2023 22:51:57] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:52:01] [I] Следующая случайная карта: Fork.
+[10-17-2023 22:52:01] [I] Loading map...
+[10-17-2023 22:52:02] [I] Map loaded.
+[10-17-2023 22:52:02] [I] Opened a server on port 6567.
+[10-17-2023 22:52:05] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:52:07] [E] java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "blockBuildEndEvent.config" is null
+	at nmp.AntyGrif.lambda$new$1(AntyGrif.java:26)
+	at arc.Events.fire(Events.java:53)
+	at arc.Events.fire(Events.java:43)
+	at mindustry.world.blocks.ConstructBlock.constructFinish(ConstructBlock.java:115)
+	at mindustry.gen.Call.constructFinish(Call.java:349)
+	at mindustry.world.blocks.ConstructBlock.constructed(ConstructBlock.java:143)
+	at mindustry.world.blocks.ConstructBlock$ConstructBuild.construct(ConstructBlock.java:286)
+	at mindustry.gen.UnitEntity.updateBuildLogic(UnitEntity.java:2042)
+	at mindustry.gen.UnitEntity.update(UnitEntity.java:1765)
+	at mindustry.entities.EntityGroup.update(EntityGroup.java:83)
+	at mindustry.gen.Groups.update(Groups.java:83)
+	at mindustry.core.Logic.update(Logic.java:483)
+	at arc.backend.headless.HeadlessApplication.mainLoop(HeadlessApplication.java:87)
+	at arc.backend.headless.HeadlessApplication$1.run(HeadlessApplication.java:52)
+
+[10-17-2023 22:52:33] [I] Загружено модификаций: 1.
+[10-17-2023 22:52:33] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:52:35] [I] Следующая случайная карта: Triad.
+[10-17-2023 22:52:35] [I] Loading map...
+[10-17-2023 22:52:36] [I] Map loaded.
+[10-17-2023 22:52:36] [I] Opened a server on port 6567.
+[10-17-2023 22:52:39] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:52:45] [I] g
+[10-17-2023 22:54:02] [I] g
+[10-17-2023 22:54:02] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-17-2023 22:54:32] [I] Загружено модификаций: 1.
+[10-17-2023 22:54:32] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 22:54:35] [I] Следующая случайная карта: Molten Lake.
+[10-17-2023 22:54:35] [I] Loading map...
+[10-17-2023 22:54:36] [I] Map loaded.
+[10-17-2023 22:54:36] [I] Opened a server on port 6567.
+[10-17-2023 22:54:40] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 22:54:45] [I] g
+[10-17-2023 22:59:05] [I] g
+[10-17-2023 22:59:05] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-17-2023 22:59:55] [I] Загружено модификаций: 1.
+[10-17-2023 22:59:55] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:00:03] [I] Следующая случайная карта: Triad.
+[10-17-2023 23:00:03] [I] Loading map...
+[10-17-2023 23:00:03] [I] Map loaded.
+[10-17-2023 23:00:03] [I] Opened a server on port 6567.
+[10-17-2023 23:00:08] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:00:14] [I] g
+[10-17-2023 23:00:17] [I] g
+[10-17-2023 23:00:47] [I] g
+[10-17-2023 23:00:47] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-17-2023 23:01:46] [I] Загружено модификаций: 1.
+[10-17-2023 23:01:46] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:01:48] [I] Следующая случайная карта: Shattered.
+[10-17-2023 23:01:48] [I] Loading map...
+[10-17-2023 23:01:48] [I] Map loaded.
+[10-17-2023 23:01:48] [I] Opened a server on port 6567.
+[10-17-2023 23:01:52] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:01:56] [I] g
+[10-17-2023 23:03:48] [I] g
+[10-17-2023 23:03:48] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-17-2023 23:07:16] [I] Загружено модификаций: 1.
+[10-17-2023 23:07:16] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:07:19] [I] Следующая случайная карта: Islands.
+[10-17-2023 23:07:19] [I] Loading map...
+[10-17-2023 23:07:19] [I] Map loaded.
+[10-17-2023 23:07:19] [I] Opened a server on port 6567.
+[10-17-2023 23:07:23] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:07:26] [I] g
+[10-17-2023 23:07:29] [I] g
+[10-17-2023 23:07:29] [I] g
+[10-17-2023 23:07:31] [I] g
+[10-17-2023 23:07:33] [I] g
+[10-17-2023 23:07:36] [I] g
+[10-17-2023 23:07:50] [I] Загружено модификаций: 1.
+[10-17-2023 23:07:50] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:07:53] [I] Следующая случайная карта: Molten Lake.
+[10-17-2023 23:07:53] [I] Loading map...
+[10-17-2023 23:07:54] [I] Map loaded.
+[10-17-2023 23:07:54] [I] Opened a server on port 6567.
+[10-17-2023 23:08:01] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:08:03] [I] g
+[10-17-2023 23:08:04] [I] g
+[10-17-2023 23:08:05] [I] g
+[10-17-2023 23:08:06] [I] g
+[10-17-2023 23:08:08] [I] g
+[10-17-2023 23:08:09] [I] g
+[10-17-2023 23:09:10] [I] Загружено модификаций: 1.
+[10-17-2023 23:09:10] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:09:15] [I] Следующая случайная карта: Triad.
+[10-17-2023 23:09:15] [I] Loading map...
+[10-17-2023 23:09:15] [I] Map loaded.
+[10-17-2023 23:09:15] [I] Opened a server on port 6567.
+[10-17-2023 23:09:19] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:09:21] [I] g
+[10-17-2023 23:09:22] [I] g
+[10-17-2023 23:10:04] [I] g
+[10-17-2023 23:10:04] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-17-2023 23:13:56] [I] Загружено модификаций: 1.
+[10-17-2023 23:13:56] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:14:02] [I] Следующая случайная карта: Labyrinth.
+[10-17-2023 23:14:02] [I] Loading map...
+[10-17-2023 23:14:02] [I] Map loaded.
+[10-17-2023 23:14:02] [I] Opened a server on port 6567.
+[10-17-2023 23:14:07] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:14:08] [I] g
+[10-17-2023 23:14:10] [I] g
+[10-17-2023 23:14:33] [I] g
+[10-17-2023 23:14:33] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-17-2023 23:14:59] [I] Загружено модификаций: 1.
+[10-17-2023 23:14:59] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:15:03] [I] Следующая случайная карта: Fortress.
+[10-17-2023 23:15:03] [I] Loading map...
+[10-17-2023 23:15:04] [I] Map loaded.
+[10-17-2023 23:15:04] [I] Opened a server on port 6567.
+[10-17-2023 23:15:08] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:15:33] [I] g
+[10-17-2023 23:15:33] [I] g
+[10-17-2023 23:15:34] [I] g
+[10-17-2023 23:15:34] [I] g
+[10-17-2023 23:15:40] [I] g
+[10-17-2023 23:15:44] [I] g
+[10-17-2023 23:15:54] [I] g
+[10-17-2023 23:15:55] [I] g
+[10-17-2023 23:15:55] [I] g
+[10-17-2023 23:15:55] [I] g
+[10-17-2023 23:15:55] [I] g
+[10-17-2023 23:15:55] [I] g
+[10-17-2023 23:15:55] [I] g
+[10-17-2023 23:15:56] [I] g
+[10-17-2023 23:15:56] [I] g
+[10-17-2023 23:15:56] [I] g
+[10-17-2023 23:15:56] [I] g
+[10-17-2023 23:15:56] [I] g
+[10-17-2023 23:15:56] [I] g
+[10-17-2023 23:15:56] [I] g
+[10-17-2023 23:15:57] [I] g
+[10-17-2023 23:15:57] [I] g
+[10-17-2023 23:16:14] [I] g
+[10-17-2023 23:16:14] [I] [U]Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (disappeared)
+[10-17-2023 23:29:10] [I] Загружено модификаций: 1.
+[10-17-2023 23:29:10] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[10-17-2023 23:29:12] [I] Следующая случайная карта: Tendrils.
+[10-17-2023 23:29:12] [I] Loading map...
+[10-17-2023 23:29:13] [I] Map loaded.
+[10-17-2023 23:29:13] [I] Opened a server on port 6567.
+[10-17-2023 23:29:16] [I] [U]Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[10-17-2023 23:29:18] [I] g
+[10-17-2023 23:29:19] [I] g
