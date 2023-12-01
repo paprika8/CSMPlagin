@@ -16,3 +16,5 @@
 [12-01-2023 16:47:12] [I] Opened a server on port 6567.
 [12-01-2023 16:47:15] [I] [Кур Т/А] Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
 [12-01-2023 16:47:22] [I] [Кур Т/А] Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)
+[12-01-2023 17:26:33] [I] Загружено модификаций: 1.
+[12-01-2023 17:26:33] [I] Сервер загружен. Используйте 'help' для получения помощи.
