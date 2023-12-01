@@ -1,3 +1,4 @@
+package nmp;
 import arc.Events;
 import arc.files.Fi;
 import arc.struct.Seq;
@@ -8,16 +9,15 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.*;
 
+import arc.util.Log;
 import mindustry.Vars;
 import mindustry.game.EventType;
 import mindustry.game.Team;
-import mindustry.gen.AccountMind;
 import mindustry.gen.Call;
 import mindustry.gen.Groups;
 import mindustry.gen.Player;
 import mindustry.io.MapIO;
 import mindustry.maps.Map;
-import mindustry.maps.Maps;
 import mindustry.mod.Plugin;
 import mindustry.server.ServerControl;
 
@@ -28,9 +28,9 @@ public class FindAndNextMap extends Plugin {
     File filePass, fileID;
     List<KeyPref> UUIDs = new ArrayList<>();
     final String dir = System.getProperty("user.dir");
+    final BanHelper helper = new BanHelper();
 // xyzdiuP geue
     public FindAndNextMap() {
-
         Events.on(EventType.PlayerLeave.class, (e) -> {
             Player player = e.player;
             int cur = this.votes.size();
@@ -39,18 +39,25 @@ public class FindAndNextMap extends Plugin {
                 this.votes.remove(player.uuid());
                 Call.sendMessage("NMP: [accent]" + player.name + "[] ливнул, [green]" + cur + "[] проголосовало из, [green]" + req + "[] игроков");
             }
-
+            AccountMind.all.remove(AccountMind.ofPlayer(e.player));
         });
         Events.on(EventType.PlayerConnect.class, e -> {
-            e.player.sendMessage("Приветствуем на нашем сервере.\nНаш дискорд: https://discord.gg/836YCYH8py");
+            new AccountMind(e.player);
             for (KeyPref u : UUIDs){
                 if(e.player.uuid().equals(u.key)){
-                    e.player.account.setPrefix(u.prefix);
-                    e.player.admin(u.prefix != "[U]");
+                    if (AccountMind.ofPlayer(e.player) != null)
+                        AccountMind.ofPlayer(e.player).setPrefix(u.prefix);
                     break;
                 }
             }
-            e.player.admin(!e.player.account.getPrefix().equals(AccountMind.prefixes[0]));
+            if(AccountMind.ofPlayer(e.player) != null){
+                e.player.admin(!AccountMind.ofPlayer(e.player).getPrefix().equals(AccountMind.prefixes[0]));
+                Log.info(e.player.uuid() + " зашёл как " + ((AccountMind.ofPlayer(e.player).getPrefix().equals(AccountMind.prefixes[0]))? "пользователь" : "админ"));
+            }
+            else {
+                Log.err("Account", "Account is lost");
+            }
+
         });
         Events.on(EventType.GameOverEvent.class, (e) -> {
             this.votes.clear();
@@ -121,6 +128,7 @@ public class FindAndNextMap extends Plugin {
                 s = s + "}";
                 Call.sendMessage(s);
             } else {
+                args[0] = args[0].replace('_', ' ');
                 if (player.admin() && args.length != 0 && !args[0].equals("off")) {
                     Seq<Map> maps = Vars.maps.all();
                     boolean flag = false;
@@ -161,7 +169,11 @@ public class FindAndNextMap extends Plugin {
             List<KeyPref> Passs = getAllPass(args[1]);
             for (KeyPref kp: Passs) {
                 if(args[0].equals(kp.key)){
-                    player.account.setPrefix(kp.prefix);
+                    if(AccountMind.ofPlayer(player) == null) {
+                        player.sendMessage("не найденно");
+                        return;
+                    }
+                    AccountMind.ofPlayer(player).setPrefix(kp.prefix);
                     Call.sendMessage("[green]Есть![]");
                     {
                         boolean is = false;
@@ -172,7 +184,7 @@ public class FindAndNextMap extends Plugin {
                         if(!is){
                             UUIDs.add(new KeyPref(player.uuid(), kp.prefix));
                         try{
-                            OutputStream out = Files.newOutputStream(Path.of("/root/mods/passwords/id.b"), StandardOpenOption.APPEND);
+                            OutputStream out = Files.newOutputStream(fileID.toPath(), StandardOpenOption.APPEND);
                             writeInFile(coding(player.uuid(), "abcd"), out);
                             writeInFile(coding(kp.prefix, "abcd"), out);
                         }catch (IOException e){}}
@@ -185,15 +197,19 @@ public class FindAndNextMap extends Plugin {
         });
         handler.<Player>register("regp", "[password] [key] [pref]", "registration", (args, player) -> {
             if(args.length < 3)return;
-            if(player.account.getPrefix().equals(AccountMind.prefixes[9]) || player.account.getPrefix().equals(AccountMind.prefixes[11])
-                    || player.account.getPrefix().equals(AccountMind.prefixes[12])){
+            if(AccountMind.ofPlayer(player) == null) {
+                player.sendMessage("не найденно");
+                return;
+            }
+            if(AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[9]) || AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[11])
+                    || AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[12])){
                 try{
                     boolean is = false;
                     for (String k : AccountMind.prefixes)
                         if(args[2].equals(k))
                             is = true;
                     if(!is){Call.sendMessage("[red]нет такого[]"); return;}
-                    OutputStream out = Files.newOutputStream(Path.of("/root/mods/passwords/pass.b"), StandardOpenOption.APPEND);
+                    OutputStream out = Files.newOutputStream(filePass.toPath(), StandardOpenOption.APPEND);
                     writeInFile(coding(args[0], args[1]), out);
                     writeInFile(coding(args[2], args[1]), out);
                     Call.sendMessage("[green]Есть![]");
@@ -202,11 +218,16 @@ public class FindAndNextMap extends Plugin {
             else Call.sendMessage("[red]нет прав[]");
         });
         handler.<Player>register("cl_pref", "[off]", "registration", (args, player) -> {
-            if (player.account.getPrefix().equals(AccountMind.prefixes[9]) || player.account.getPrefix().equals(AccountMind.prefixes[11])
-                    || player.account.getPrefix().equals(AccountMind.prefixes[12]) || player.account.getPrefix().equals(AccountMind.prefixes[14])){
+            if(AccountMind.ofPlayer(player) == null) {
+                player.sendMessage("не найденно");
+                return;
+            }
+            if (AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[9]) || AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[11])
+                    || AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[12]) || AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[14])
+                    || AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[15]) || AccountMind.ofPlayer(player).getPrefix().equals(AccountMind.prefixes[16])){
                 UUIDs = new ArrayList<>();
                 try {
-                    InputStream stream = Files.newInputStream(Paths.get("/root/mods/passwords/id.b"));
+                    InputStream stream = Files.newInputStream(fileID.toPath());
                     for (;stream.available() != 0;){
                         byte[] buf, ubuf;
                         int l = stream.read();
@@ -298,6 +319,17 @@ public class FindAndNextMap extends Plugin {
                 player.sendMessage("[green] =)");
             }
             else player.sendMessage("[red] (-_- )");
+        });
+
+        handler.removeCommand("ban");
+        handler.removeCommand("uban");
+        handler.<Player>register("ban", "[uuid]", "ban", (args, player) ->{
+            if(player != null  && args.length != 0 && !args[0].isEmpty())
+                helper.ban(args[0], player);
+        });
+        handler.<Player>register("uban", "[uuid]", "uban", (args, player) ->{
+            if(player != null  && args.length != 0 && !args[0].isEmpty())
+                helper.uban(args[0], player);
         });
     }
     private List<KeyPref> getAllPass(String key){
