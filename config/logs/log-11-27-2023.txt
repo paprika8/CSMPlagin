@@ -1,0 +1,47 @@
+[11-27-2023 23:33:51] [I] Загружено модификаций: 1.
+[11-27-2023 23:33:51] [I] Сервер загружен. Используйте 'help' для получения помощи.
+[11-27-2023 23:33:55] [I] Commands:
+[11-27-2023 23:33:55] [I]    help [command] - Display the command list, or get help for a specific command.
+[11-27-2023 23:33:55] [I]    version - Displays server version info.
+[11-27-2023 23:33:55] [I]    exit - Exit the server application.
+[11-27-2023 23:33:55] [I]    stop - Stop hosting the server.
+[11-27-2023 23:33:55] [I]    host [mapname] [mode] - Open the server. Will default to survival and a random map if not specified.
+[11-27-2023 23:33:55] [I]    maps [all/custom/default] - Display available maps. Displays only custom maps by default.
+[11-27-2023 23:33:55] [I]    reloadmaps - Reload all maps from disk.
+[11-27-2023 23:33:55] [I]    status - Display server status.
+[11-27-2023 23:33:55] [I]    mods - Display all loaded mods.
+[11-27-2023 23:33:55] [I]    mod <name...> - Display information about a loaded plugin.
+[11-27-2023 23:33:55] [I]    js <script...> - Run arbitrary Javascript.
+[11-27-2023 23:33:55] [I]    say <message...> - Send a message to all players.
+[11-27-2023 23:33:55] [I]    pause <on/off> - Pause or unpause the game.
+[11-27-2023 23:33:55] [I]    rules [remove/add] [name] [value...] - List, remove or add global rules. These will apply regardless of map.
+[11-27-2023 23:33:55] [I]    fillitems [team] - Fill the core with items.
+[11-27-2023 23:33:55] [I]    playerlimit [off/somenumber] - Set the server player limit.
+[11-27-2023 23:33:55] [I]    config [name] [value...] - Configure server settings.
+[11-27-2023 23:33:55] [I]    subnet-ban [add/remove] [address] - Ban a subnet. This simply rejects all connections with IPs starting with some string.
+[11-27-2023 23:33:55] [I]    whitelist [add/remove] [ID] - Add/remove players from the whitelist using their ID.
+[11-27-2023 23:33:55] [I]    shuffle [none/all/custom/builtin] - Set map shuffling mode.
+[11-27-2023 23:33:55] [I]    nextmap <mapname...> - Set the next map to be played after a game-over. Overrides shuffling.
+[11-27-2023 23:33:55] [I]    kick <username...> - Kick a person by name.
+[11-27-2023 23:33:55] [I]    ban <type-id/name/ip> <username/IP/ID...> - Ban a person.
+[11-27-2023 23:33:55] [I]    bans - List all banned IPs and IDs.
+[11-27-2023 23:33:55] [I]    unban <ip/ID> - Completely unban a person by IP or ID.
+[11-27-2023 23:33:55] [I]    pardon <ID> - Pardons a votekicked player by ID and allows them to join again.
+[11-27-2023 23:33:55] [I]    admin <add/remove> <username/ID...> - Make an online user admin
+[11-27-2023 23:33:55] [I]    admins - List all admins.
+[11-27-2023 23:33:55] [I]    players - List all players currently in game.
+[11-27-2023 23:33:55] [I]    runwave - Trigger the next wave.
+[11-27-2023 23:33:55] [I]    load <slot> - Load a save from a slot.
+[11-27-2023 23:33:55] [I]    save <slot> - Save game state to a slot.
+[11-27-2023 23:33:55] [I]    saves - List all saves in the save directory.
+[11-27-2023 23:33:55] [I]    gameover - Force a game over.
+[11-27-2023 23:33:55] [I]    info <IP/UUID/name...> - Find player info(s). Can optionally check for all names or IPs a player has had.
+[11-27-2023 23:33:55] [I]    search <name...> - Search players who have used part of a name.
+[11-27-2023 23:33:55] [I]    gc - Trigger a garbage collection. Testing only.
+[11-27-2023 23:33:55] [I]    yes - Run the last suggested incorrect command.
+[11-27-2023 23:33:58] [I] Следующая случайная карта: Fork.
+[11-27-2023 23:33:58] [I] Loading map...
+[11-27-2023 23:33:58] [I] Map loaded.
+[11-27-2023 23:33:58] [I] Opened a server on port 6567.
+[11-27-2023 23:34:03] [I] [Т/А] Paprika2 has connected. [Hf3RlF7gkSwAAAAAomORWQ==]
+[11-27-2023 23:34:06] [I] [Т/А] Paprika2 has disconnected. [Hf3RlF7gkSwAAAAAomORWQ==] (closed)

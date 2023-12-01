@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nnp.iml" filepath="$PROJECT_DIR$/nnp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nmp.iml" filepath="$PROJECT_DIR$/nmp.iml" />
     </modules>
   </component>
 </project>
