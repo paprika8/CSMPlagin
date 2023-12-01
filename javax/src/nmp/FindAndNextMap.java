@@ -19,7 +19,7 @@ import mindustry.gen.Player;
 import mindustry.io.MapIO;
 import mindustry.maps.Map;
 import mindustry.mod.Plugin;
-import mindustry.server.ServerControl;
+import server.ServerControl;
 
 public class FindAndNextMap extends Plugin {
     private static double ratio = 0.6;
