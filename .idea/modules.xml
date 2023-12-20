@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nmp.iml" filepath="$PROJECT_DIR$/nmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnm/fnm.iml" filepath="$PROJECT_DIR$/fnm/fnm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fnp.iml" filepath="$PROJECT_DIR$/.idea/fnp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpref/mpref.iml" filepath="$PROJECT_DIR$/mpref/mpref.iml" />
     </modules>
   </component>
 </project>

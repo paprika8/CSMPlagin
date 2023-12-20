@@ -1,0 +1,7 @@
+{
+  "name": "prefPlugin",
+  "author": "Paprika",
+  "main": "mpref.Prefix",
+  "description": "login",
+  "version": 1.3
+}
